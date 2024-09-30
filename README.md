@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ClaudyaSalim&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ClaudyaSalim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ClaudyaSalim/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudyaSalim&layout=compact&langs_count=15) -->
