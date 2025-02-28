@@ -1,10 +1,10 @@
 ## Hi there 👋
-I'm Claudya, a final-year student at Bina Nusantara University. Feel free to look at my projects in the repositories below. To check out projects I've worked on with others, I've starred them in my 🤗 Collabs list
-<!-
-**ClaudyaSalim/ClaudyaSalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Claudya, a final-year student at Bina Nusantara University. Feel free to look at my projects in the repositories below. To check out projects I've worked on with others, I've starred them in my 🤗 Collabs list.
 
-Here are some ideas to get you started:
+<!--**ClaudyaSalim/ClaudyaSalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<!--Here are some ideas to get you started: -->
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ClaudyaSalim&theme=dark&mode=weekly)](https://git.io/streak-stats)
