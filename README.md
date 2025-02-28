@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+I'm Claudya, a final-year student at Bina Nusantara University. Feel free to look at my projects in the repositories below. To check out projects I've worked on with others, I've starred them in my 🤗 Collabs list
+<!-
 **ClaudyaSalim/ClaudyaSalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
